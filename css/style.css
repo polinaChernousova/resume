@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+.hero {
+    display: flex;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-01/1611131605_5-p-tekhnicheskie-foni-dlya-prezentatsii-8.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+
+.hero h4 {
+    color: #8dc7c7;
+}
+
+
+.card {
+top: 50px;
+}
+
+.about-me h1 {
+    color: #90e0e0;
+}
+.about-me h3 {
+    margin-top: 15px;
+    color: #3a343b;
+    font-weight: 700;
+
+}
+.about-me {
+   position: absolute;
+   top: 113px;
+   margin-left: 340px;
+   
+   font-weight: 600;
+   font-family: 'Montserrat', sans-serif;
+}
+
+
+.about-me button {
+    margin-top: 15px;
+    border: white solid;
+    opacity: 1.1;
+}
+    
+    .btn-4 {
+        text-align: center;
+        background-color: rgb(191, 228, 230);
+        height: 50px;
+        border-radius: 5px;
+        font-size: 20px;
+        color: #5f6070;
+        
+    }
+
+
+
+    .skills{
+        margin-top: 140px;
+        
+    }
+    
+    
+    
+    .skills h2 {
+        text-transform: uppercase;
+        color:#90e0e0;
+        
+    }
+    
+    .progress {
+        
+        margin-top: 30px;
+        width: 20%;
+        
+        background-color: thistle;
+    }
+    
+    
+    .skills img {
+     
+        width: 100px;
+        
+        
+    }
+
+
+  
+    
+    .skills-text {
+        text-align: right; 
+        padding-right: 20px;
+        line-height: 40px; 
+        color: white; 
+        font-weight: 700;
+    }
+    
+    .html {
+        width: 90%;
+        background-color: #b3ebb5;
+        } 
+
+
+    .css {
+        width: 80%;
+        background-color: #b5cbdd;
+        } 
+
+
+    .js {
+        width: 65%; 
+        background-color: #dbb9b6;} 
+    
+    
+    .php {
+        width: 60%;
+         background-color: #daa3d0;
+        } 
+
+
+
+
+
+.my-hobby {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card {
+    transition: all 2s;
+
+}
+
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+
+.my-hobby h2 {
+    text-transform: uppercase;
+    color:  #90e0e0;
+    font-family: 'Montserrat' sans-serif;
+    letter-spacing: 2px;
+}
+
+
